@@ -20,6 +20,3 @@ Bioinformatics portfolio
 * Hyperparameter Tuning: We improved the performance of the Random Forest model by tuning its hyperparameters using grid search. Hyperparameter tuning is an important step as it can help us find the most optimal parameters for our model, thus improving its performance.
 
 ![](https://github.com/JoshTjan/Josh_Portfolio/blob/main/image/Dia_Pred.png)
-
-* Two motif finding tasks were performed. The 'ATG' motif was found to be common in these genomes. The 'LLQY' and 'GTNGTKR' motifs were present in some genomes but not all.
-* The project provided valuable insights into the structure and composition of the seven virus genomes, revealing similarities and differences that could be further explored in future studies.
