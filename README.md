@@ -9,7 +9,7 @@ Bioinformatics portfolio
 * Clustering: Clustering analysis was carried out to group cells with similar gene expression profiles. This allowed for the identification of distinct cell populations, including T cells, within the breast cancer dataset.
 * Gene Identification: Genes associated with T cells were identified through differential gene expression analysis. This step aimed to highlight genes that are specifically expressed in T cells or show significant differences in expression compared to other cell types.
   
-![](https://github.com/JoshTjan/Josh_Portfolio/blob/main/image/Dia_Pred.png)
+![](https://github.com/JoshTjan/Josh_Portfolio/blob/main/image/bctcellcluster.png)
 
 
 # [Project 2: Diabetes Prediction: Project Overview](https://github.com/JoshTjan/Diabetes_Prediction)
