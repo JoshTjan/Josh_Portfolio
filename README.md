@@ -1,7 +1,7 @@
 # Josh_Portfolio
 Bioinformatics portfolio
 
-# [Project 1: Breast Cancer T-Cells Single Cell RNA Analysis: Project Overview] (https://github.com/JoshTjan/Breast_Cancer_Tcells_SCRNA_Analysis_Project)
+# [Project 1: Breast Cancer T-Cells Single Cell RNA Analysis: Project Overview](https://github.com/JoshTjan/Breast_Cancer_Tcells_SCRNA_Analysis_Project)
 * This project focuses on the analysis of publicly available single-cell RNA sequencing (scRNA-seq) data related to breast cancer T cells. 
 * The scRNA-seq data used in this project was obtained from publicly available sources. Please refer to the data source or repository for detailed information on the dataset.
 * Data Preprocessing: Prior to analysis, the raw scRNA-seq data underwent a series of preprocessing steps. This included quality control, filtering out low-quality cells, and removing unwanted sources of variation.
