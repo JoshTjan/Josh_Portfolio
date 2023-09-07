@@ -3,7 +3,7 @@
 #### Skills: Python, UNIX, ScanPY, MATLAB
 
 ## Education
-* B.S., Molecular, Cellular, and Developmental Biology
+* B.S., Molecular, Cellular, and Developmental Biology | The University of Washington (_June 2023_)
 
 ## Projects
 ### [Project 1: Breast Cancer T-Cells Single Cell RNA Analysis: Project Overview](https://github.com/JoshTjan/Breast_Cancer_Tcells_SCRNA_Analysis_Project)
