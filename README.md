@@ -1,7 +1,12 @@
-# Josh_Portfolio
-Bioinformatics portfolio
+# Bioinformatics Analyst
 
-# [Project 1: Breast Cancer T-Cells Single Cell RNA Analysis: Project Overview](https://github.com/JoshTjan/Breast_Cancer_Tcells_SCRNA_Analysis_Project)
+#### Skills: Python, UNIX, ScanPY, MATLAB
+
+## Education
+* B.S., Molecular, Cellular, and Developmental Biology
+
+## Projects
+### [Project 1: Breast Cancer T-Cells Single Cell RNA Analysis: Project Overview](https://github.com/JoshTjan/Breast_Cancer_Tcells_SCRNA_Analysis_Project)
 * This project focuses on the analysis of publicly available single-cell RNA sequencing (scRNA-seq) data related to breast cancer T cells. 
 * The scRNA-seq data used in this project was obtained from publicly available sources. Please refer to the data source or repository for detailed information on the dataset.
 * Data Preprocessing: Prior to analysis, the raw scRNA-seq data underwent a series of preprocessing steps. This included quality control, filtering out low-quality cells, and removing unwanted sources of variation.
@@ -9,10 +14,10 @@ Bioinformatics portfolio
 * Clustering: Clustering analysis was carried out to group cells with similar gene expression profiles. This allowed for the identification of distinct cell populations, including T cells, within the breast cancer dataset.
 * Gene Identification: Genes associated with T cells were identified through differential gene expression analysis. This step aimed to highlight genes that are specifically expressed in T cells or show significant differences in expression compared to other cell types.
   
-![](https://github.com/JoshTjan/Josh_Portfolio/blob/main/image/bctcellcluster.png)
+![BC_Cluster](https://github.com/JoshTjan/Josh_Portfolio/blob/main/image/bctcellcluster.png)
 
 
-# [Project 2: Diabetes Prediction: Project Overview](https://github.com/JoshTjan/Diabetes_Prediction)
+### [Project 2: Diabetes Prediction: Project Overview](https://github.com/JoshTjan/Diabetes_Prediction)
 * In this project, we aim to predict the onset of diabetes based on diagnostic measures. We use a dataset that includes several medical predictor variables and one target variable, Outcome. Predictor variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and more.
 * Data Exploration: We started by exploring the data using Python. We analyzed the distributions of the features and the relationships between them. This step helped us understand the data better and informed our subsequent steps.
 * Data Preprocessing: We preprocessed the data by handling missing values and scaling the features. This step is crucial as it can significantly impact the performance of the machine learning models.
