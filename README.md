@@ -1,4 +1,4 @@
-theme: minima
+theme: midnight
 # Josh_Portfolio
 Bioinformatics portfolio
 
