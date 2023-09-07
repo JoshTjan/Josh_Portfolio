@@ -1,3 +1,4 @@
+theme: minima
 # Josh_Portfolio
 Bioinformatics portfolio
 
