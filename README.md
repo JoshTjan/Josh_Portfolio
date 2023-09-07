@@ -17,7 +17,7 @@ B.S., Molecular, Cellular, and Developmental Biology | The University of Washing
 * Clustering: Clustering analysis was carried out to group cells with similar gene expression profiles. This allowed for the identification of distinct cell populations, including T cells, within the breast cancer dataset.
 * Gene Identification: Genes associated with T cells were identified through differential gene expression analysis. This step aimed to highlight genes that are specifically expressed in T cells or show significant differences in expression compared to other cell types.
   
-![BC_Cluster](/image/BC_Cluster_Labeled.png)
+![BC_Cluster](/image/BC_Cluster_Labeled.png)![](/image/CD8%2Bmarker_dot.png)
 
 
 ### [Project 2: Diabetes Prediction: Project Overview](https://github.com/JoshTjan/Diabetes_Prediction)
