@@ -18,7 +18,8 @@ B.S., Molecular, Cellular, and Developmental Biology | The University of Washing
 * Gene Identification: Genes associated with T cells were identified through differential gene expression analysis. This step aimed to highlight genes that are specifically expressed in T cells or show significant differences in expression compared to other cell types.
   
 ![BC_Cluster](/image/BC_Cluster_Labeled.png)![](/image/CD8%2Bmarker_dot.png)
-
+![](/image/Memory_Tcell.png)
+![](/image/cd4+.png)
 
 ### [Project 2: Diabetes Prediction: Project Overview](https://github.com/JoshTjan/Diabetes_Prediction)
 * In this project, I aimed to predict the onset of diabetes based on diagnostic measures using a dataset containing various medical predictor variables and one target variable, Outcome. The predictor variables encompassed factors such as the number of pregnancies, BMI, insulin levels, age, and more.
