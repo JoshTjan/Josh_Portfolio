@@ -14,7 +14,7 @@
 * Clustering: Clustering analysis was carried out to group cells with similar gene expression profiles. This allowed for the identification of distinct cell populations, including T cells, within the breast cancer dataset.
 * Gene Identification: Genes associated with T cells were identified through differential gene expression analysis. This step aimed to highlight genes that are specifically expressed in T cells or show significant differences in expression compared to other cell types.
   
-![BC_Cluster](https://github.com/JoshTjan/Josh_Portfolio/blob/main/image/bctcellcluster.png)
+![BC_Cluster](/image/bctcellcluster.png)
 
 
 ### [Project 2: Diabetes Prediction: Project Overview](https://github.com/JoshTjan/Diabetes_Prediction)
@@ -24,4 +24,4 @@
 * Model Training and Evaluation: We trained and evaluated several machine learning models, including Logistic Regression, Random Forest, and Support Vector Machine. We calculated several metrics, such as accuracy, precision, recall, and F1 score, to evaluate the performance of the models.
 * Hyperparameter Tuning: We improved the performance of the Random Forest model by tuning its hyperparameters using grid search. Hyperparameter tuning is an important step as it can help us find the most optimal parameters for our model, thus improving its performance.
 
-![](https://github.com/JoshTjan/Josh_Portfolio/blob/main/image/Dia_Pred.png)
+![](/image/Dia_Pred.png)
