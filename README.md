@@ -3,7 +3,7 @@
 ## About Me
  I am a passionate Bioinformatics Analyst with a strong background in molecular biology, and my enthusiasm for this field is rooted in my ability to unravel complex biological data.  I thrive on the challenge of preprocessing and normalizing data to uncover meaningful insights through analysis, and my comfort with the command line allows me to efficiently navigate and manipulate datasets.  My dedication lies in bridging biology and computational science to contribute to our understanding of diseases and advance biomedical research.
 
-#### Skills: Python, UNIX, ScanPY, MATLAB, STAR, SRATOOLS, BLAST, NextFlow pyDEseq2, gseaplot
+#### Skills: Python, UNIX, ScanPY, MATLAB, STAR, SRATOOLS, BLAST, NextFlow, pyDEseq2, gseaplot
 
 ## Education
 B.S., Molecular, Cellular, and Developmental Biology | The University of Washington (_June 2023_)
